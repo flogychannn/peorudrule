@@ -3,20 +3,20 @@ body {
     background-color: #000000;
 }
 .head {
-    line-height: 6px
+    line-height: 1.2em
 }
 .main {
-    line-height: 6px
+    line-height: 1.2em
 }
 #leak {
-    line-height: 20px
+    line-height: 2em
 }
 .spoiler {
-    line-height: 6px
+    line-height: 1.2em
 }
 .advice {
-    line-height: 6px
+    line-height: 1.2em
 }
 .ban {
-    line-height: 6px
+    line-height: 1.2em
 }
