@@ -1,0 +1,22 @@
+body {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.head {
+    line-height: 6px
+}
+.main {
+    line-height: 6px
+}
+#leak {
+    line-height: 20px
+}
+.spoiler {
+    line-height: 6px
+}
+.advice {
+    line-height: 6px
+}
+.ban {
+    line-height: 6px
+}
